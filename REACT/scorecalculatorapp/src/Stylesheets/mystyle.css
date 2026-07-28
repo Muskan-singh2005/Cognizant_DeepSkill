@@ -1,0 +1,23 @@
+
+body{
+    background-color: lightblue;
+}
+
+.card{
+    width:400px;
+    margin:auto;
+    margin-top:50px;
+    border:2px solid black;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+}
+
+h2{
+    text-align:center;
+    color:blue;
+}
+
+p{
+    font-size:18px;
+}
